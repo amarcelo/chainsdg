@@ -195,22 +195,22 @@ BASE_URL = "https://api.opensea.io/v2/orders/mumbai/seaport/listings"
 
 layout = [[sg.Text('Nome da Empresa:')],
           [sg.Input(key='-NOME_EMPRESA-', size=(30,1))],
-          [sg.Text('Tipo de ODS:')],
+          [sg.Text('ODS:')],
           [sg.Listbox(values=ods_list, size=(30,5), key='-TIPO_ODS-')],
-          [sg.Button("Confirmar")],
-          [sg. Text(f'Pergunta 1: {perguntas[0]}',key="quest1")],
+          [sg.Button("Confirma")],
+          [sg. Text(f'Question 1: {perguntas[0]}',key="quest1")],
           [sg.Input(key="resposta1")],
-          [sg. Text(f'Pergunta 2: {perguntas[1]}',key="quest2")],
+          [sg. Text(f'Question 2: {perguntas[1]}',key="quest2")],
           [sg.Input(key="resposta2")],
-          [sg. Text(f'Pergunta 3: {perguntas[2]}',key="quest3")],
+          [sg. Text(f'Question 3: {perguntas[2]}',key="quest3")],
           [sg.Input(key="resposta3")],
-          [sg. Text(f'Pergunta 4: {perguntas[3]}',key="quest4")],
+          [sg. Text(f'Question 4: {perguntas[3]}',key="quest4")],
           [sg.Input(key="resposta4")],
-          [sg. Text(f'Pergunta 5: {perguntas[4]}',key="quest5")],
+          [sg. Text(f'Question 5: {perguntas[4]}',key="quest5")],
           [sg.Input(key="resposta5")],
           [sg.Button('Salvar'), sg.Button('Cancelar')]]
 
-window = sg.Window('Cadastro de Empresa', layout)
+window = sg.Window('Company Name', layout)
 p1 = window["quest1"]
 p2 = window["quest2"]
 p3= window["quest3"]

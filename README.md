@@ -1,4 +1,4 @@
-# chainsdgAudit
+# chainsdg
 Project for hackathon Polygon/Impact+
 Chain SDG Project is an ambitious initiative aimed at promoting and incentivizing the implementation of the United Nations Sustainable Development Goals (SDGs) through blockchain technology and non-fungible tokens (NFTs).
 

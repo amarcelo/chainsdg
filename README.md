@@ -45,7 +45,7 @@ In addition, our group has developed an auditing tool that enables the tracking 
 
 We will start by certifying four SDGs, but our goal is to cover all 17 of them in the future.
 
-#How to use chainSDG
+How to use chainSDG
 
 First of all, "chainSGD.py" and "chainSGDRegister" uses some libraries that are not included in the standard Python distribution. Therefore, you will need to install the following libraries:
 

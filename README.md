@@ -58,10 +58,10 @@ https://www.agiratech.com/install-requests-library-in-python
 https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
 To run the auditor app run the following code:
-python3 chainSDG.py 
+#python3 chainSDG.py 
 
 To run the data logger run the following code:
-python3 chainSDGRegister.py
+#python3 chainSDGRegister.py
 
 Contacts:
 antonmarcelo@gmail.com

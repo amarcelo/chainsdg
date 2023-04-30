@@ -45,8 +45,16 @@ In addition, our group has developed an auditing tool that enables the tracking 
 
 We will start by certifying four SDGs, but our goal is to cover all 17 of them in the future.
 
+#How to use chainSDG
 
+First of all, "chainSGD.py" and "chainSGDRegister" uses some libraries that are not included in the standard Python distribution. Therefore, you will need to install the following libraries:
 
+"PysimpleGUI," which you can install by following the step-by-step guide for your environment here: https://www.tutorialspoint.com/pysimplegui/pysimplegui_environment_setup.htm
 
+"requests," which you can install by following the step-by-step guide for your environment here:
+https://www.agiratech.com/install-requests-library-in-python
+
+"tkinter," which you can install by following the step-by-step guide for your environment here:
+https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
 Contacts antonmarcelo@gmail.com

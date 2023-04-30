@@ -57,4 +57,6 @@ https://www.agiratech.com/install-requests-library-in-python
 "tkinter," which you can install by following the step-by-step guide for your environment here:
 https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
-Contacts antonmarcelo@gmail.com
+Contacts:
+antonmarcelo@gmail.com
+rodrigomatheuspaiva6@gmail.com
